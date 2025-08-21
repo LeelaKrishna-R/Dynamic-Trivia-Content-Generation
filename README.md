@@ -1,7 +1,10 @@
 # Dynamic Trivia Game with Semantic Web and Prolog
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExem12aGl2em5heGdyZXZxbXV5MGpyNXNsa3d4dWZpcmFtd3M2em1odCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tywgBbi9s4Yot8MB8G/giphy.gif" alt="Trivia Game Demo"/>
+</p>
 
 ## 📌 Overview
-This project introduces a **contemporary trivia game** that generates questions dynamically using real-time data sources like **OpenTDB** and **Wikidata**. Unlike traditional trivia games where questions remain static until manually updated, this system continuously updates itself and leverages **Prolog** for reasoning and logical inference:contentReference[oaicite:1]{index=1}.
+This project introduces a **contemporary trivia game** that generates questions dynamically using real-time data sources like **OpenTDB** and **Wikidata**. Unlike traditional trivia games where questions remain static until manually updated, this system continuously updates itself and leverages **Prolog** for reasoning and logical inference.
 
 The result is a self-updating trivia game that provides **accurate, relevant, and challenging questions** while ensuring an engaging and educational experience.
 
@@ -21,7 +24,7 @@ The result is a self-updating trivia game that provides **accurate, relevant, an
 2. **Fact Transformation** – Converts raw data into Prolog-readable facts.  
 3. **Reasoning & Question Generation** – Prolog infers connections and creates contextually relevant questions.  
 4. **Game Interface** – Presents multiple-choice questions, verifies answers, and updates streaks.  
-5. **Looping Cycle** – The process repeats, ensuring continuous freshness in gameplay:contentReference[oaicite:2]{index=2}.  
+5. **Looping Cycle** – The process repeats, ensuring continuous freshness in gameplay.  
 
 ---
 
@@ -29,14 +32,14 @@ The result is a self-updating trivia game that provides **accurate, relevant, an
 - Generates **up-to-date trivia questions** grounded in factual data.  
 - Provides **challenging, thought-provoking queries** rather than random facts.  
 - Encourages player engagement through **streak-based scoring and progression tracking**.  
-- Demonstrates the potential of combining the **Semantic Web + AI reasoning** for educational purpose only.
+- Demonstrates the potential of combining the **Semantic Web + AI reasoning** for educational and entertainment purposes.  
 
 ---
 
 ## 🧑‍💻 Team
-- [Akshitha Volluru](https://github.com/VolluruAkshitha)
+- [Akshitha Volluru](https://github.com/VolluruAkshitha)  
 - Harshavardhan Marella  
-- [Leela Krishna Ravuri - @me 😎](https://github.com/Leelakrishna-R)  
+- [Leela Krishna Ravuri 😎](https://github.com/Leelakrishna-R)  
 - [Poojitha Vempalli](https://github.com/PoojithaVempalli)  
 - Vaishnavi Veeramalli  
 
@@ -52,4 +55,4 @@ The result is a self-updating trivia game that provides **accurate, relevant, an
 ---
 
 ## 📝 License
-This project is for **educational and research purposes** only.  
+This project is for **educational and research purposes only**.  
